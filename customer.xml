@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<customer>
+    <user id="0001" firstname ="Andrey" lastname ="Charnushey" city="Minsk">
+    </user>
+
+    <user id="0102" firstname ="Kiril" lastname ="Zimitrovich" city="Sluck">
+    </user>
+
+    <user id="0012" firstname ="Nastia" lastname ="Bogdan" city="Logisk">
+    </user>
+
+    <user id="0002" firstname ="Egor" lastname ="Garmilin" city="Minsk">
+    </user>
+</customer>
